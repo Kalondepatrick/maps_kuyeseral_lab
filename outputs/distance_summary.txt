@@ -1,0 +1,7 @@
+   Cluster Mean_Distance_km Min_Distance_km Max_Distance_km
+  Chingale            10.68            3.43           15.70
+      City             5.35            1.18           15.89
+    Domasi            10.24            4.59           17.50
+ Likangala            12.12            4.75           20.97
+    Mayaka            15.04            4.52           21.28
+   Thondwe            12.70            0.90           22.24
